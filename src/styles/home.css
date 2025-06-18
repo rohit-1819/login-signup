@@ -1,0 +1,23 @@
+.for-home1 {
+    box-sizing: border-box;
+    min-height: 70vh;
+}
+
+.cta-buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-buttons .button1 {
+    background-color: rgb(62, 62, 204);
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.cta-buttons .button2 {
+    background-color: rgb(142, 142, 194);
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+}
